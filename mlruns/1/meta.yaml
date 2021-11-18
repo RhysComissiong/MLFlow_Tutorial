@@ -1,0 +1,4 @@
+artifact_location: file:///home/rhys/Data_Scientist/MLOps/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: scikit_learn_experiment

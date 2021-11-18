@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rhys/Data_Scientist/MLOps/mlruns/3/4bfbab0072ba43de91c89153f774489a/artifacts
+end_time: 1637187036523
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 4bfbab0072ba43de91c89153f774489a
+run_uuid: 4bfbab0072ba43de91c89153f774489a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637187032483
+status: 3
+tags: []
+user_id: rhys
