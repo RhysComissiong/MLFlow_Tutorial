@@ -2,7 +2,7 @@ artifact_uri: file:///home/rhys/Data_Scientist/MLOps/mlruns/4/9f7e86198dd04c87bd
 end_time: 1637347003032
 entry_point_name: ''
 experiment_id: '4'
-lifecycle_stage: active
+lifecycle_stage: deleted
 name: ''
 run_id: 9f7e86198dd04c87bd8dd3378f5a78a5
 run_uuid: 9f7e86198dd04c87bd8dd3378f5a78a5

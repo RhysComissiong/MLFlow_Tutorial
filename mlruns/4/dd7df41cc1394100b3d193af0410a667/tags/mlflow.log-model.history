@@ -1,0 +1,1 @@
+[{"run_id": "dd7df41cc1394100b3d193af0410a667", "artifact_path": "creditcard_model_pyspark", "utc_time_created": "2021-11-19 22:13:02.779950", "flavors": {"spark": {"pyspark_version": "3.1.2", "model_data": "sparkml"}, "python_function": {"loader_module": "mlflow.spark", "python_version": "3.7.9", "data": "sparkml", "env": "conda.yaml"}}}]

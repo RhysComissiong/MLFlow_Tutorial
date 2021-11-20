@@ -1,0 +1,12 @@
+artifact_path: creditcard_model_pyspark
+flavors:
+  python_function:
+    data: sparkml
+    env: conda.yaml
+    loader_module: mlflow.spark
+    python_version: 3.7.9
+  spark:
+    model_data: sparkml
+    pyspark_version: 3.1.2
+run_id: dd7df41cc1394100b3d193af0410a667
+utc_time_created: '2021-11-19 22:13:02.779950'
